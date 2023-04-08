@@ -1,0 +1,17 @@
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\bin\Debug\net6.0-windows\assign 6 q2.exe
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\bin\Debug\net6.0-windows\assign 6 q2.deps.json
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\bin\Debug\net6.0-windows\assign 6 q2.runtimeconfig.json
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\bin\Debug\net6.0-windows\assign 6 q2.dll
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\bin\Debug\net6.0-windows\assign 6 q2.pdb
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.csproj.AssemblyReference.cache
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign_6_q2.CActLine.resources
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.csproj.GenerateResource.cache
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.AssemblyInfoInputs.cache
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.AssemblyInfo.cs
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.csproj.CoreCompileInputs.cache
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.dll
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\refint\assign 6 q2.dll
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.pdb
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\assign 6 q2.genruntimeconfig.cache
+C:\Users\Fearless\Downloads\ASSIGNMENT 6\Tower Game\obj\Debug\net6.0-windows\ref\assign 6 q2.dll
